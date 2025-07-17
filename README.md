@@ -2,7 +2,7 @@
 
 **`Engenheiro, Cientista e Analista de dados 🎲`**
 
-Me chamo João Avelar, tenho 21 anos, sou graduado em Ciência de Dados pelo Unipê e atualmente curso pós-graduação em Engenharia e Qualidade de Software. Tenho experiência prática no uso de dados para gerar valor estratégico às empresas, atuando desde a coleta, tratamento e análise de dados até a construção de modelos preditivos com foco em Machine Learning e Inteligência Artificial. Também compartilho projetos, estudos e aplicações da área através do meu [linkedin](https://www.linkedin.com/in/joaoavelaar/), buscando contribuir ativamente com a comunidade de tecnologia e dados.
+Me chamo João Avelar, sou graduado em Ciência de Dados pelo Unipê e atualmente curso pós-graduação em Engenharia e Qualidade de Software. Tenho experiência prática no uso de dados para gerar valor estratégico às empresas, atuando desde a coleta, tratamento e análise de dados até a construção de modelos preditivos com foco em Machine Learning e Inteligência Artificial. Também compartilho projetos, estudos e aplicações da área através do meu [linkedin](https://www.linkedin.com/in/joaoavelaar/), buscando contribuir ativamente com a comunidade de tecnologia e dados.
 <p align="left">
     <a href="https://github.com/joaoavelaar?tab=repositories&sort=stargazers">
         <img 
