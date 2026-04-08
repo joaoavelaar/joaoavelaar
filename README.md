@@ -143,19 +143,15 @@ Me chamo João Avelar, sou graduado em Ciência de Dados pelo Unipê e atualment
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        height="200" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoavelaar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      />
-    </td>
-    <td>
-      <img 
-        height="200" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoavelaar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    width="400" 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaoavelaar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    width="400" 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaoavelaar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
